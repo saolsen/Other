@@ -1,0 +1,67 @@
+Things that need to be installed to be happy as a desktop
+
+Terminal
+    mrxvt
+terminal-stuff
+    tmux
+    wget
+    zsh
+    irssi
+    sudo
+wm
+    awesome
+    feh //for the awesome background setting
+
+network
+    wicd //Need to work on getting it working better
+    wicd-curses
+        
+vim
+    vim-full
+    NERDtree
+    better vim python highlighting
+    blackboard theme
+                                                                       
+internet
+    chrome
+    NetworkManager
+
+other
+    openoffice
+    virtuialbox / vmware player
+
+file browser / manager
+    thunar
+    possibly nautulus if it's needed for dropbox
+
+media
+    mplayer
+    alsa-base
+    vlc
+
+latex
+    texlive
+    pdflatex
+
+dev
+    python
+    build-essential
+    gcc
+    git-core
+    python-setuptools
+    gcl
+
+dropbox
+gnome power manager
+gedit
+
+
+lxappearance //for themeing everything
+gdm //for login screen
+
+start with awesomewm
+    dropbox start (may need nautulus installed)
+    nm-applet
+    gnome-power-manager
+
+

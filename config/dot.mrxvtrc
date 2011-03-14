@@ -1,0 +1,12 @@
+Mrxvt.foreground: white
+Mrxvt.background: black
+
+Mrxvt.xft: True
+Mrxvt.xftFont: DejaVu Sans Mono
+Mrxvt.xftSize: 9
+Mrxvt.showMenu: false
+Mrxvt.scrollBar: false
+Mrxvt.autohideTabbar: true
+
+mrxvt.transparent: True
+mrxvt.shading: 60
