@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 """
     addmon
     A Little Script that I use to add and remove my external monitor
