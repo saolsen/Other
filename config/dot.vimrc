@@ -12,5 +12,6 @@ syntax on
 " Toggle line numbers and fold column with F2
 nnoremap <F2> :set nonumber!<CR>:set foldcolumn=0<CR>
 
-colorscheme blackboard
-
+" let g:solarized_termcolors=16
+set background=dark
+colorscheme solarized
